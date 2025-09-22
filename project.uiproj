@@ -1,0 +1,6 @@
+{
+  "Name": "DFO_Regjering_Case",
+  "ProjectType": "Process",
+  "Description": "DFO interview task",
+  "MainFile": "Main.xaml"
+}
